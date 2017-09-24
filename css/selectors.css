@@ -1,0 +1,34 @@
+/*Размер шрифта*/
+font-size:100px;
+
+/*Жирность шрифта*/
+font-weight:bold/light/normal;
+
+/*Курсив шрифта*/
+font-style:italic
+
+/*Выравнивание*/
+text-align:center/left/right/justify;
+
+/*Линии и текст*/  
+text-decoration:underline/line-througt/overline/none/line-height/color/line/style;
+
+/*Цвет текста*/
+color:black/rgb
+
+/*Цвет фона*/
+background-color:red/rgb;
+
+/*Ширина и высота*/
+height:600px;
+width:50%;
+
+/*Минимальная ширина и высота*/
+min-height:100px;
+min-width:300px;
+
+/*Прозрачность*/  
+opacity=0-1
+
+/*Курсор*/
+cursor:pointer;
